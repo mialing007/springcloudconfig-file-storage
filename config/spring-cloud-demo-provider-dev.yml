@@ -1,0 +1,3 @@
+test:
+  springCloudConfig:
+    config: this is test spring cloud config
